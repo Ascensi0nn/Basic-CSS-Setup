@@ -1,0 +1,10 @@
+/* 
+    CSS for the main page of your web-application
+*/
+
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
